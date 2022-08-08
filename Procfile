@@ -1,0 +1,1 @@
+web: cd app && gunicorn start:app

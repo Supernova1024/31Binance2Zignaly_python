@@ -1,0 +1,16 @@
+{
+  "master": {
+    "name": "Master" ,
+    "api_key":"PrbnIrE0FvlZUjHbgBW7te23l1vXpTtapcNzFf9R7ZxhabjsPOiiEo3K3ApPITAO" ,
+    "secret_key" :"n3A8YrBpFWKKogSInn3URNPxu0gt7X9JLR3Ne3PSERCvSghtstmgXZYAnQaf1faH",
+    "exchange_name": "binance"
+     },
+  "slave":{
+      "name": "Slave",
+      "api_key": "a9efe7899955bc57b5f413e6beabab5e",
+      "secret_key": "",
+      "url": "https://zignaly.com/api/signals.php",
+      "exchange_name": "zignaly"
+      },
+  "leverage":10
+}
